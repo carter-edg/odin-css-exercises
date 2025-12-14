@@ -1,13 +1,15 @@
 /* Add CSS Styling */
 
 .elem1, .elem2 {
-    /*todo*/   
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
 }
 
 .elem1{
-    /*todo*/
+    background-color: black;
+    color: white;
 }
 
 .elem2{
-    /*todo*/
+    background-color: yellow;
 }
